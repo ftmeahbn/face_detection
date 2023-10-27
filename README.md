@@ -1,5 +1,5 @@
 # face_detection
-Age and gender detection
+Age and gender detection by using webcam
 
 
 ![20231027_091103](https://github.com/ftmeahbn/face_detection/assets/135530398/438a195f-360b-43e8-b88e-617023c76bc6)
